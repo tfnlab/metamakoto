@@ -25,7 +25,8 @@ app.get('/api/token/:token_id', function(req, res) {
   const data = {
     'name': tokenId,
     'attributes': {
-      'Token': tokenIdInt
+      'Token': tokenIdInt,
+      'Color': '${person.Color}'
     },
     'image': `${person.imgurl}`
   }
