@@ -19280,717 +19280,717 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3855.png"
   },
   "3856":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3856.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3856.png"
   },
   "3857":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3857.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3857.png"
   },
   "3858":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3858.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3858.png"
   },
   "3859":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3859.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3859.png"
   },
   "3860":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3860.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3860.png"
   },
   "3861":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3861.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3861.png"
   },
   "3862":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3862.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3862.png"
   },
   "3863":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3863.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3863.png"
   },
   "3864":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3864.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3864.png"
   },
   "3865":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3865.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3865.png"
   },
   "3866":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3866.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3866.png"
   },
   "3867":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3867.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3867.png"
   },
   "3868":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3868.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3868.png"
   },
   "3869":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3869.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3869.png"
   },
   "3870":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3870.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3870.png"
   },
   "3871":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3871.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3871.png"
   },
   "3872":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3872.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3872.png"
   },
   "3873":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3873.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3873.png"
   },
   "3874":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3874.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3874.png"
   },
   "3875":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3875.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3875.png"
   },
   "3876":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3876.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3876.png"
   },
   "3877":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3877.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3877.png"
   },
   "3878":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3878.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3878.png"
   },
   "3879":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3879.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3879.png"
   },
   "3880":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3880.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3880.png"
   },
   "3881":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3881.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3881.png"
   },
   "3882":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3882.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3882.png"
   },
   "3883":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3883.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3883.png"
   },
   "3884":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3884.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3884.png"
   },
   "3885":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3885.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3885.png"
   },
   "3886":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3886.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3886.png"
   },
   "3887":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3887.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3887.png"
   },
   "3888":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3888.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3888.png"
   },
   "3889":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3889.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3889.png"
   },
   "3890":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3890.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3890.png"
   },
   "3891":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3891.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3891.png"
   },
   "3892":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3892.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3892.png"
   },
   "3893":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3893.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3893.png"
   },
   "3894":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3894.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3894.png"
   },
   "3895":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3895.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3895.png"
   },
   "3896":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3896.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3896.png"
   },
   "3897":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3897.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3897.png"
   },
   "3898":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3898.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3898.png"
   },
   "3899":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3899.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3899.png"
   },
   "3900":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3900.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3900.png"
   },
   "3901":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3901.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3901.png"
   },
   "3902":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3902.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3902.png"
   },
   "3903":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3903.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3903.png"
   },
   "3904":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3904.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3904.png"
   },
   "3905":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3905.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3905.png"
   },
   "3906":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3906.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3906.png"
   },
   "3907":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3907.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3907.png"
   },
   "3908":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3908.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3908.png"
   },
   "3909":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3909.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3909.png"
   },
   "3910":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3910.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3910.png"
   },
   "3911":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3911.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3911.png"
   },
   "3912":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3912.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3912.png"
   },
   "3913":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3913.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3913.png"
   },
   "3914":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3914.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3914.png"
   },
   "3915":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3915.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3915.png"
   },
   "3916":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3916.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3916.png"
   },
   "3917":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3917.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3917.png"
   },
   "3918":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3918.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3918.png"
   },
   "3919":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3919.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3919.png"
   },
   "3920":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3920.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3920.png"
   },
   "3921":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3921.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3921.png"
   },
   "3922":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3922.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3922.png"
   },
   "3923":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3923.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3923.png"
   },
   "3924":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3924.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3924.png"
   },
   "3925":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3925.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3925.png"
   },
   "3926":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3926.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3926.png"
   },
   "3927":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3927.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3927.png"
   },
   "3928":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3928.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3928.png"
   },
   "3929":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3929.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3929.png"
   },
   "3930":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3930.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3930.png"
   },
   "3931":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3931.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3931.png"
   },
   "3932":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3932.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3932.png"
   },
   "3933":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3933.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3933.png"
   },
   "3934":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3934.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3934.png"
   },
   "3935":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3935.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3935.png"
   },
   "3936":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3936.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3936.png"
   },
   "3937":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3937.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3937.png"
   },
   "3938":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3938.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3938.png"
   },
   "3939":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3939.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3939.png"
   },
   "3940":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3940.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3940.png"
   },
   "3941":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3941.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3941.png"
   },
   "3942":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3942.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3942.png"
   },
   "3943":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3943.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3943.png"
   },
   "3944":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3944.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3944.png"
   },
   "3945":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3945.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3945.png"
   },
   "3946":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3946.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3946.png"
   },
   "3947":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3947.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3947.png"
   },
   "3948":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3948.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3948.png"
   },
   "3949":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3949.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3949.png"
   },
   "3950":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3950.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3950.png"
   },
   "3951":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3951.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3951.png"
   },
   "3952":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3952.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3952.png"
   },
   "3953":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3953.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3953.png"
   },
   "3954":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3954.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3954.png"
   },
   "3955":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3955.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3955.png"
   },
   "3956":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3956.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3956.png"
   },
   "3957":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3957.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3957.png"
   },
   "3958":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3958.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3958.png"
   },
   "3959":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3959.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3959.png"
   },
   "3960":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3960.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3960.png"
   },
   "3961":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3961.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3961.png"
   },
   "3962":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3962.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3962.png"
   },
   "3963":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3963.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3963.png"
   },
   "3964":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3964.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3964.png"
   },
   "3965":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3965.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3965.png"
   },
   "3966":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3966.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3966.png"
   },
   "3967":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3967.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3967.png"
   },
   "3968":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3968.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3968.png"
   },
   "3969":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3969.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3969.png"
   },
   "3970":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3970.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3970.png"
   },
   "3971":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3971.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3971.png"
   },
   "3972":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3972.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3972.png"
   },
   "3973":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3973.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3973.png"
   },
   "3974":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3974.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3974.png"
   },
   "3975":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3975.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3975.png"
   },
   "3976":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3976.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3976.png"
   },
   "3977":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3977.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3977.png"
   },
   "3978":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3978.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3978.png"
   },
   "3979":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3979.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3979.png"
   },
   "3980":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3980.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3980.png"
   },
   "3981":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3981.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3981.png"
   },
   "3982":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3982.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3982.png"
   },
   "3983":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3983.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3983.png"
   },
   "3984":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3984.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3984.png"
   },
   "3985":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3985.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3985.png"
   },
   "3986":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3986.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3986.png"
   },
   "3987":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3987.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3987.png"
   },
   "3988":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3988.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3988.png"
   },
   "3989":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3989.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3989.png"
   },
   "3990":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3990.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3990.png"
   },
   "3991":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3991.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3991.png"
   },
   "3992":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3992.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3992.png"
   },
   "3993":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3993.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3993.png"
   },
   "3994":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3994.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3994.png"
   },
   "3995":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3995.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3995.png"
   },
   "3996":{
-  "Color": "Unknown",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3996.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3996.png"
   },
   "3997":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3997.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3997.png"
   },
   "3998":{
-  "Color": "Unknown",
+  "Color": "Yes",
   "imgurl": "https://meta.makotodigital.art/image/3998.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3998.png"
   },
