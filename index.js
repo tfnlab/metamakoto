@@ -26,6 +26,7 @@ app.get('/api/token/:token_id', function(req, res) {
     'name': tokenId,
     'attributes': {
       'Token': tokenIdInt,
+      'Colors': `${person.Colors}`,
       'Color': `${person.Color}`,
       'Black': `${person.Black}`,
       'White': `${person.White}`
