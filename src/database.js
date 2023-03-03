@@ -45,12 +45,12 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/8.png"
   },
   "9":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/9.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/9.png"
   },
   "10":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/10.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/10.png"
   },
@@ -75,7 +75,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/14.png"
   },
   "15":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/15.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/15.png"
   },
@@ -495,7 +495,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/98.png"
   },
   "99":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/99.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/99.png"
   },
@@ -615,7 +615,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/122.png"
   },
   "123":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/123.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/123.png"
   },
@@ -660,7 +660,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/131.png"
   },
   "132":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/132.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/132.png"
   },
@@ -1360,7 +1360,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/271.png"
   },
   "272":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/272.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/272.png"
   },
@@ -2015,7 +2015,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/402.png"
   },
   "403":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/403.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/403.png"
   },
@@ -2175,7 +2175,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/434.png"
   },
   "435":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/435.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/435.png"
   },
@@ -2255,7 +2255,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/450.png"
   },
   "451":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/451.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/451.png"
   },
@@ -2290,7 +2290,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/457.png"
   },
   "458":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/458.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/458.png"
   },
@@ -2370,7 +2370,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/473.png"
   },
   "474":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/474.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/474.png"
   },
@@ -2505,7 +2505,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/500.png"
   },
   "501":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/501.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/501.png"
   },
@@ -2705,7 +2705,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/540.png"
   },
   "541":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/541.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/541.png"
   },
@@ -2725,7 +2725,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/544.png"
   },
   "545":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/545.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/545.png"
   },
@@ -2915,7 +2915,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/582.png"
   },
   "583":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/583.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/583.png"
   },
@@ -3130,7 +3130,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/625.png"
   },
   "626":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/626.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/626.png"
   },
@@ -3370,7 +3370,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/673.png"
   },
   "674":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/674.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/674.png"
   },
@@ -3440,7 +3440,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/687.png"
   },
   "688":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/688.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/688.png"
   },
@@ -3480,7 +3480,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/695.png"
   },
   "696":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/696.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/696.png"
   },
@@ -3660,7 +3660,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/731.png"
   },
   "732":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/732.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/732.png"
   },
@@ -3775,7 +3775,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/754.png"
   },
   "755":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/755.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/755.png"
   },
@@ -3965,7 +3965,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/792.png"
   },
   "793":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/793.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/793.png"
   },
@@ -4090,7 +4090,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/817.png"
   },
   "818":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/818.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/818.png"
   },
@@ -4405,7 +4405,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/880.png"
   },
   "881":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/881.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/881.png"
   },
@@ -4525,7 +4525,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/904.png"
   },
   "905":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/905.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/905.png"
   },
@@ -4580,7 +4580,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/915.png"
   },
   "916":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/916.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/916.png"
   },
@@ -6100,7 +6100,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1219.png"
   },
   "1220":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1220.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1220.png"
   },
@@ -6130,7 +6130,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1225.png"
   },
   "1226":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1226.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1226.png"
   },
@@ -6175,12 +6175,12 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1234.png"
   },
   "1235":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1235.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1235.png"
   },
   "1236":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1236.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1236.png"
   },
@@ -6265,7 +6265,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1252.png"
   },
   "1253":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1253.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1253.png"
   },
@@ -6720,7 +6720,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1343.png"
   },
   "1344":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1344.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1344.png"
   },
@@ -6760,7 +6760,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1351.png"
   },
   "1352":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1352.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1352.png"
   },
@@ -6920,7 +6920,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1383.png"
   },
   "1384":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1384.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1384.png"
   },
@@ -7190,7 +7190,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1437.png"
   },
   "1438":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1438.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1438.png"
   },
@@ -7860,7 +7860,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1571.png"
   },
   "1572":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1572.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1572.png"
   },
@@ -8195,7 +8195,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1638.png"
   },
   "1639":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1639.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1639.png"
   },
@@ -8945,7 +8945,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1788.png"
   },
   "1789":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1789.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1789.png"
   },
@@ -9435,7 +9435,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1886.png"
   },
   "1887":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1887.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1887.png"
   },
@@ -9540,7 +9540,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/1907.png"
   },
   "1908":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/1908.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/1908.png"
   },
@@ -10140,7 +10140,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2027.png"
   },
   "2028":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2028.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2028.png"
   },
@@ -10660,7 +10660,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2131.png"
   },
   "2132":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2132.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2132.png"
   },
@@ -10775,7 +10775,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2154.png"
   },
   "2155":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2155.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2155.png"
   },
@@ -10920,7 +10920,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2183.png"
   },
   "2184":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2184.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2184.png"
   },
@@ -11220,7 +11220,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2243.png"
   },
   "2244":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2244.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2244.png"
   },
@@ -11245,7 +11245,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2248.png"
   },
   "2249":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2249.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2249.png"
   },
@@ -11515,7 +11515,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2302.png"
   },
   "2303":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2303.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2303.png"
   },
@@ -11575,7 +11575,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2314.png"
   },
   "2315":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2315.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2315.png"
   },
@@ -12095,7 +12095,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2418.png"
   },
   "2419":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2419.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2419.png"
   },
@@ -12465,7 +12465,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2492.png"
   },
   "2493":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2493.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2493.png"
   },
@@ -12500,7 +12500,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2499.png"
   },
   "2500":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2500.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2500.png"
   },
@@ -12705,7 +12705,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2540.png"
   },
   "2541":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2541.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2541.png"
   },
@@ -13610,7 +13610,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2721.png"
   },
   "2722":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2722.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2722.png"
   },
@@ -14520,7 +14520,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2903.png"
   },
   "2904":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2904.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2904.png"
   },
@@ -14555,7 +14555,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2910.png"
   },
   "2911":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2911.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2911.png"
   },
@@ -14630,12 +14630,12 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2925.png"
   },
   "2926":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2926.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2926.png"
   },
   "2927":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2927.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2927.png"
   },
@@ -14765,7 +14765,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2952.png"
   },
   "2953":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2953.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2953.png"
   },
@@ -14785,7 +14785,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2956.png"
   },
   "2957":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2957.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2957.png"
   },
@@ -14890,7 +14890,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/2977.png"
   },
   "2978":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/2978.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/2978.png"
   },
@@ -15365,7 +15365,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3072.png"
   },
   "3073":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3073.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3073.png"
   },
@@ -15860,7 +15860,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3171.png"
   },
   "3172":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3172.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3172.png"
   },
@@ -16030,7 +16030,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3205.png"
   },
   "3206":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3206.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3206.png"
   },
@@ -16750,7 +16750,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3349.png"
   },
   "3350":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3350.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3350.png"
   },
@@ -16775,7 +16775,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3354.png"
   },
   "3355":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3355.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3355.png"
   },
@@ -16915,7 +16915,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3382.png"
   },
   "3383":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3383.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3383.png"
   },
@@ -17125,7 +17125,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3424.png"
   },
   "3425":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3425.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3425.png"
   },
@@ -17295,7 +17295,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3458.png"
   },
   "3459":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3459.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3459.png"
   },
@@ -17475,7 +17475,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3494.png"
   },
   "3495":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3495.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3495.png"
   },
@@ -17685,7 +17685,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3536.png"
   },
   "3537":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3537.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3537.png"
   },
@@ -18015,7 +18015,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3602.png"
   },
   "3603":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3603.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3603.png"
   },
@@ -18040,7 +18040,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3607.png"
   },
   "3608":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3608.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3608.png"
   },
@@ -18075,7 +18075,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3614.png"
   },
   "3615":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3615.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3615.png"
   },
@@ -18165,7 +18165,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3632.png"
   },
   "3633":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3633.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3633.png"
   },
@@ -18415,7 +18415,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3682.png"
   },
   "3683":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3683.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3683.png"
   },
@@ -18600,7 +18600,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3719.png"
   },
   "3720":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3720.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3720.png"
   },
@@ -19015,7 +19015,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3802.png"
   },
   "3803":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3803.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3803.png"
   },
@@ -19085,7 +19085,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3816.png"
   },
   "3817":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3817.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3817.png"
   },
@@ -19350,7 +19350,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3869.png"
   },
   "3870":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3870.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3870.png"
   },
@@ -19465,7 +19465,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3892.png"
   },
   "3893":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3893.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3893.png"
   },
@@ -19725,7 +19725,7 @@ module.exports = {
   "imgurlog": "https://meta.makotodigital.art/image/og/3944.png"
   },
   "3945":{
-  "Color": "Yes",
+  "Color": "No",
   "imgurl": "https://meta.makotodigital.art/image/3945.png",
   "imgurlog": "https://meta.makotodigital.art/image/og/3945.png"
   },
